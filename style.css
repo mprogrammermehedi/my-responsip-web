@@ -188,6 +188,7 @@ grid-template-columns: repeat(5,1fr);
 .footer1{
   text-align: center;
   padding: 20px;
+  margin: auto;
   
 }
 
