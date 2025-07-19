@@ -185,6 +185,11 @@ grid-template-columns: repeat(5,1fr);
  filter: grayscale(100%);
  cursor: pointer;
 }
+.footer1{
+  text-align: center;
+  padding: 20px;
+  
+}
 
   @media screen and (max-width:576px){
    .features, 
